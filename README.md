@@ -4,7 +4,7 @@
 A comprehensive business intelligence solution for analyzing sales, customer behavior, shipping performance, and employee productivity.
 
 ## 📊 Dashboard Overview
- ![Dashboard Preview] [https://github.com/Shubh7758/Business-Analysis-Dashboard/blob/main/Business%20Performance%20Dashboard.PNG]
+ ![Dashboard Preview](https://github.com/Shubh7758/Business-Analysis-Dashboard/blob/main/Business%20Performance%20Dashboard.PNG)
 
 This Power BI dashboard provides end-to-end visibility into business operations with focus on:
 - **Sales Performance** - Track revenue trends and product performance
@@ -227,7 +227,7 @@ This dashboard connects to the following data sources:
 - LinkedIn: https://www.linkedin.com/in/shubham-shevare-b04a621a0
 ## 📊 Sample Visuals
 
- ![Dashboard Preview] [https://github.com/Shubh7758/Business-Analysis-Dashboard/blob/main/customer%20Analysis%20photo.PNG]
- [https://github.com/Shubh7758/Business-Analysis-Dashboard/blob/main/Product%20Analysis%20Photo.PNG]
- [https://github.com/Shubh7758/Business-Analysis-Dashboard/blob/main/Shipping%20Analysis%20Photo.PNG]
- [https://github.com/Shubh7758/Business-Analysis-Dashboard/blob/main/Employee%20Analysis%20Photo.PNG]
+ ![Dashboard Preview](https://github.com/Shubh7758/Business-Analysis-Dashboard/blob/main/customer%20Analysis%20photo.PNG)
+  ![Dashboard Preview](https://github.com/Shubh7758/Business-Analysis-Dashboard/blob/main/Product%20Analysis%20Photo.PNG)
+  ![Dashboard Preview](https://github.com/Shubh7758/Business-Analysis-Dashboard/blob/main/Shipping%20Analysis%20Photo.PNG)
+  ![Dashboard Preview](https://github.com/Shubh7758/Business-Analysis-Dashboard/blob/main/Employee%20Analysis%20Photo.PNG)
