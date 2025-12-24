@@ -6,30 +6,18 @@
 
 
 ## 🎯 Key Capabilities
-**Sales Performance**
- ✅Track $40,460 total revenue
- ✅Monitor revenue by product category
- ✅Analyze order trends and patterns
+📊 Real-time Revenue Tracking - Monitor sales performance with live DAX calculations
+📈 Trend Analysis - Analyze revenue, orders, and customer patterns over time
+🎯 KPI Monitoring - Track critical business metrics with dynamic measures
+📉 Performance Benchmarking - Compare categories, products, and time periods
+🔍 Drill-down Analysis - Navigate from high-level summaries to detailed transactions
+📍 Geographic Analysis - View customer distribution and regional performance
+👥 Customer Segmentation - Analyze customers by revenue, location, and behavior
+🚚 Shipping Status Monitoring - Track orders through 4 delivery stages (Delivered, Shipped, In Transit, Pending)
+📊 Category Comparison - Compare Electronics, Furniture, and Office Supplies performance
 
-**Customer Analytics**
- ✅Track customer behavior and purchases
- ✅Identify repeat customers (loyalty metric)
- ✅Segment by location and revenue
 
-**Order Management**
- ✅Monitor 35 total orders across the system
- ✅Track order volumes and values
- ✅Calculate average order value ($1,156)
 
-**Shipping Operations**
- ✅Track delivery status (Delivered, Shipped, In Transit, Pending)
- ✅Monitor 80% fulfillment rate (delivered or shipped)
- ✅Analyze carrier performance
-
-**Employee Productivity**
- ✅Measure orders per employee
- ✅Track workload distribution
- ✅Identify top performers
 
 ## 📊 Dashboard Overview
 
