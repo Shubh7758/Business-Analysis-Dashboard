@@ -5,33 +5,33 @@
 🎯 Key Capabilities
 1. **Sales Performance**
 
- Track $40,460 total revenue
- Monitor revenue by product category
- Analyze order trends and patterns
+ -Track $40,460 total revenue
+ -Monitor revenue by product category
+ -Analyze order trends and patterns
 
 2. **Customer Analytics**
 
- Track customer behavior and purchases
- Identify repeat customers (loyalty metric)
- Segment by location and revenue
+ -Track customer behavior and purchases
+ -Identify repeat customers (loyalty metric)
+ -Segment by location and revenue
 
 3. **Order Management**
 
- Monitor 35 total orders across the system
- Track order volumes and values
- Calculate average order value ($1,156)
+ -Monitor 35 total orders across the system
+ -Track order volumes and values
+ -Calculate average order value ($1,156)
 
 4. **Shipping Operations**
 
- Track delivery status (Delivered, Shipped, In Transit, Pending)
- Monitor 80% fulfillment rate (delivered or shipped)
- Analyze carrier performance
+ -Track delivery status (Delivered, Shipped, In Transit, Pending)
+ -Monitor 80% fulfillment rate (delivered or shipped)
+ -Analyze carrier performance
 
 5. **Employee Productivity**
 
- Measure orders per employee
- Track workload distribution
- Identify top performers
+ -Measure orders per employee
+ -Track workload distribution
+ -Identify top performers
 
 ## 📊 Dashboard Overview
 
