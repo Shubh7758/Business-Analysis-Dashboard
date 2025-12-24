@@ -5,7 +5,7 @@
  A Power BI business intelligence solution that tracks sales, customers, orders, shipping, and employee performance. It provides end-to-end visibility into your business operations
 
 
-🎯 Key Capabilities
+## 🎯 Key Capabilities
 1. **Sales Performance**
  -Track $40,460 total revenue
  -Monitor revenue by product category
