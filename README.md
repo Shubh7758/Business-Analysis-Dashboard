@@ -7,8 +7,8 @@
 
 ### 🎯 Key Capabilities
 
-📊 Real-time Revenue Tracking - Monitor sales performance with live DAX calculations 
-📈 Trend Analysis - Analyze revenue, orders, and customer patterns over time 
+👥 Customer Segmentation - Analyze customers by revenue, location, and behavior
+🔄 Repeat Customer Analysis - Identify and track loyal customers automatically
 🎯 KPI Monitoring - Track critical business metrics with dynamic measures 
 📉 Performance Benchmarking - Compare categories, products, and time periods 
 🔍 Drill-down Analysis - Navigate from high-level summaries to detailed transactions 
