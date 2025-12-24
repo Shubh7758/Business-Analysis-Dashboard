@@ -1,7 +1,8 @@
 # Business Analysis Dashboard - Power BI
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow.svg)](https://powerbi.microsoft.com/)
 [![Data](https://img.shields.io/badge/Data-CSV-blue.svg)]()
-A comprehensive business intelligence solution for analyzing sales, customer behavior, shipping performance, and employee productivity.
+
+
 
 ## 📊 Dashboard Overview
 
