@@ -6,8 +6,6 @@
 
 ## 🎯 Key Capabilities
 
-### **Business Intelligence & Analytics**
-
 - 📊 **Real-time Revenue Tracking** - Monitor sales performance with live DAX calculations
 
 - 📈 **Trend Analysis** - Analyze revenue, orders, and customer patterns over time
@@ -17,6 +15,19 @@
 - 📉 **Performance Benchmarking** - Compare categories, products, and time periods
 
 - 🔍 **Drill-down Analysis** - Navigate from high-level summaries to detailed transactions
+
+- 👥 **Customer Segmentation** - Analyze customers by revenue, location, and behavior
+
+- 📍 **Geographic Analysis** - View customer distribution and regional performance
+
+- 🛒 **Order Volume Tracking** - Monitor transaction counts and patterns
+
+- 📦 **Product Performance** - Identify top-selling items and categories
+
+- 💳 **Average Order Value** - Calculate and track transaction sizes
+
+- 📊 **Category Comparison** - Compare Electronics, Furniture, and Office Supplies performance
+
 
 
 
