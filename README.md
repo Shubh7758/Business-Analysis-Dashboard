@@ -11,22 +11,22 @@
  ✅Monitor revenue by product category
  ✅Analyze order trends and patterns
 
-3. **Customer Analytics**
+2. **Customer Analytics**
  ✅Track customer behavior and purchases
  ✅Identify repeat customers (loyalty metric)
  ✅Segment by location and revenue
 
-4. **Order Management**
+3. **Order Management**
  ✅Monitor 35 total orders across the system
  ✅Track order volumes and values
  ✅Calculate average order value ($1,156)
 
-5. **Shipping Operations**
+4. **Shipping Operations**
  ✅Track delivery status (Delivered, Shipped, In Transit, Pending)
  ✅Monitor 80% fulfillment rate (delivered or shipped)
  ✅Analyze carrier performance
 
-6. **Employee Productivity**
+5. **Employee Productivity**
  ✅Measure orders per employee
  ✅Track workload distribution
  ✅Identify top performers
